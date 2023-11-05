@@ -24,7 +24,7 @@ fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
-cd
+cd /data/data/com.termux/files/home
 cd dylux-fg
 npm start
 fi
